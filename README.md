@@ -1,4 +1,4 @@
-# unmanned bicycle
+# stm32f4
 
 #### Introduction
 A part of Licycle project, the code of the lower-level real-time microcontroller.
